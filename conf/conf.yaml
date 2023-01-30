@@ -1,0 +1,23 @@
+v_classes:
+  - person
+  - car
+  - motorcycle
+  - bicycle
+  - light. comm. vehicle
+  - heavy. comm. vehicle
+
+coco_classes:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+  6: train
+  7: truck
+  8: boat
+
+cluster_label:
+  0: car
+  1: light. comm. vehicle
+  2: heavy. comm. vehicle
